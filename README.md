@@ -4,7 +4,6 @@
 Master's Degree in Automation and Robotics Engineering
 
 **Student:** Emanuela Varone  
-**ID:** P38000284
 
 ---
 
